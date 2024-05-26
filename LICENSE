@@ -25,10 +25,10 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
 
-# Additional Licensing Information for contained code
+# Additional Licensing Information for contained code, modified or otherwise
 
-This software contains code from
-microsoft/Windows-classic-samples/Samples/Win7Samples/begin/LearnWin32/HelloWorld/cpp
+This software contains code modified from
+[microsoft/Windows-classic-samples/Samples/Win7Samples/begin/LearnWin32/HelloWorld/cpp](https://github.com/microsoft/Windows-classic-samples/blob/main/Samples/Win7Samples/begin/LearnWin32/HelloWorld/cpp/main.cpp) on GitHub
 covered under the MIT license.
 
 The MIT License (MIT)

@@ -1,2 +1,2 @@
 # win32
-My Entry Point for Win32
+This will be My Entry Point for Future development of Win32 applications.
